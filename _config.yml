@@ -1,0 +1,10 @@
+title: Sputnik
+email: fanminghui7@gmail.com
+description: "Personal Blog"
+baseurl: ""
+url: "http://desperadom.github.io"
+github_username:  desperadom
+port: 8000
+
+markdown: rdiscount
+pygments: true
