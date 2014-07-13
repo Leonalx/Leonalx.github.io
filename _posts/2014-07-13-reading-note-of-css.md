@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <CSS网站布局实录>读书笔记
+title: 《CSS网站布局实录》读书笔记
 date: 2014-7-13
 
 ---
