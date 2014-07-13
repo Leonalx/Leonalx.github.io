@@ -1,7 +1,7 @@
 ---
-layout:post
+layout: post
 title: <CSS网站布局实录>读书笔记
-data: 2014-7-13
+date: 2014-7-13
 
 ---
 
@@ -9,5 +9,10 @@ data: 2014-7-13
 
 ##高度自适应
 书里给的居然不是min-height的做法，而是给html/body元素一个height:100%,然后再讲元素本身的height设为100%就可以了【[具体代码](http://jsbin.com/piyovixa/1/edit)】。
+
+##上下margin叠加问题
+上下两个div如果都有margin，那个将会出现margin的叠加。如果将某个元素设float熟悉，讲不再叠加【[具体代码](http://jsbin.com/yiteyonu/3/edit)】。
+
+
 
 
