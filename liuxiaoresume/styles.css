@@ -3,7 +3,7 @@ html { height: 101%; }
 body { background: #f2f2f2 url('images/bg-tile.png'); font-size: 62.5%; padding-bottom: 65px; }
 
 h1 { font-family: "Simonetta", "Trebuchet MS", Arial, sans-serif; color: #454545; font-size: 3.6em; margin-bottom: 6px; }
-h2 { font-family: "Simonetta", "Trebuchet MS", Arial, sans-serif; color: #484848; font-size: 2.5em; margin-bottom: 10px; text-decoration: underline; }
+h2 { font-family: "Simonetta", "Trebuchet MS", Arial, sans-serif; color: #fff; font-size: 2.5em; margin-bottom: 10px; background-color: #08c;}
 h3 { font-family: "Trebuchet MS", Verdana, Arial, sans-serif; color: #777; font-weight: normal; font-size: 1.8em; margin-bottom: 10px; }
 h4 { font-family: "Trebuchet MS", Verdana, Arial, sans-serif; color: #656565; font-weight: bold; font-size: 1.75em; margin-bottom: 4px; }
 h5 { font-family: "Trebuchet MS", Verdana, Arial, sans-serif; color: #777; font-weight: bold; font-size: 1.6em; margin-bottom: 4px; }
@@ -23,7 +23,7 @@ a:hover { text-decoration: underline; }
 /** @group core layout **/
 #w { margin: 0px 50px; padding: 20px 40px; padding-top: 35px; background: #fff; min-width: 260px; max-width: 900px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; -webkit-border-bottom-left-radius: 8px; -webkit-border-bottom-right-radius: 8px; -moz-border-radius-bottomleft: 8px; -moz-border-radius-bottomright: 8px; }
 
-header { width: 100%; }
+header { width: 100%;  margin-bottom: 48px;}
 
 /** @group personal settings **/
 #info { float: left; margin-bottom: 12px; }
