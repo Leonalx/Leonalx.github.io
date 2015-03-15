@@ -10,6 +10,9 @@
 	}
 	#w { padding: 20px 15px; }
 	p { padding: 0; }
+
+	h6 {padding-left: 12px;}
+	ul li {padding-left: 24px; background: url('images/bullet.png') 0px 5px no-repeat;}
 }
 
 @media only screen and (max-width: 570px) {
